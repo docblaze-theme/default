@@ -3,6 +3,11 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+  
+assets:
+  sources:
+    - _assets  
+  
 include:
   - CONTRIBUTING.md
   - README.md
