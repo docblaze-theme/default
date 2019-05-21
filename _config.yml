@@ -6,7 +6,7 @@ relative_links:
   
 assets:
   sources:
-    - _assets  
+    - _assets/stylesheets
   
 include:
   - CONTRIBUTING.md
